@@ -15,7 +15,7 @@ Make Contribution for following:
 #Analysis and predictions for India
 
 
-# Don't make unnecessary changes, feel free to contact.
+# Previews 
 
 ![](1.png)
 ![](2.png)
