@@ -9,5 +9,11 @@ Make Contribution for following:
 3. Improve plottings
 4. Add comments for each changes you make in your clone file
 
+#Intial process
+#Plotting
+#Prediction
+#Analysis and predictions for India
+
+
 # Don't make unnecessary changes, feel free to contact.
 
